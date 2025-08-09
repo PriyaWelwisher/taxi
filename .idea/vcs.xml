@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
-    <mapping directory="$PROJECT_DIR$/new/taxi-app" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/taxi" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/taxi-app" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/taxi-app-express-backend" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/taxi-app-socket.io" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/taxi/taxi-app-express-backend" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/taxi/taxi-app-socket.io" vcs="Git" />
   </component>
 </project>
